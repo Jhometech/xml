@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+	<employee id="123">
+	    	<name>Hari</name>
+	    	<phone>9999999999</phone>
+	</employee>
+	
+	<junk>
+	
+	</junk>
+	
+</employees>
